@@ -1,3 +1,5 @@
+### **This barclamp (master) moved to [crowbar-openstack](https://github.com/crowbar/crowbar-openstack). This repo only accepts bugfixes for tex and older**.
+
 Welcome to a Barclamp for the Crowbar Framework project
 =======================================================
 
@@ -16,7 +18,7 @@ functions of the Crowbar deployment mechanics while other barclamps extend the s
 About this barclamp
 -------------------
 
-[![Build Status](https://travis-ci.org/crowbar/barclamp-manila.svg?branch=master)](https://travis-ci.org/crowbar/barclamp-manila)
+[![Build Status](https://travis-ci.org/crowbar/barclamp-manila.svg?branch=release/tex/master)](https://travis-ci.org/crowbar/barclamp-manila)
 [![Code Climate](https://codeclimate.com/github/crowbar/barclamp-manila/badges/gpa.svg)](https://codeclimate.com/github/crowbar/barclamp-manila)
 [![Test Coverage](https://codeclimate.com/github/crowbar/barclamp-manila/badges/coverage.svg)](https://codeclimate.com/github/crowbar/barclamp-manila)
 [![Dependency Status](https://gemnasium.com/crowbar/barclamp-manila.svg)](https://gemnasium.com/crowbar/barclamp-manila)
