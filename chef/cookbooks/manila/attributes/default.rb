@@ -20,5 +20,7 @@ override[:manila][:group] = "manila"
 
 default[:manila][:api][:protocol] = "http"
 
+default[:manila][:max_header_line] = 16384
+
 # FIXME (toabctl): currently only non-HA is supported
 default[:manila][:ha][:enabled] = false
