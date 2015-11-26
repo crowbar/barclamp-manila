@@ -45,6 +45,10 @@
           "netapp_password": "",
           "netapp_vserver": "",
           "netapp_transport_type": "https"
+        },
+        "manual": {
+          "driver": "",
+          "config": ""
         }
       },
       "shares": [
@@ -65,7 +69,7 @@
     "manila": {
       "crowbar-revision": 0,
       "crowbar-applied": false,
-      "schema-revision": 1,
+      "schema-revision": 2,
       "element_states": {
         "manila-server": [ "readying", "ready", "applying" ],
         "manila-share": [ "readying", "ready", "applying" ]
